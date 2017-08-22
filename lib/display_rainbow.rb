@@ -3,5 +3,5 @@
 def display_rainbow(colors)
   colors[]
 
-  puts ""
+  puts "First color is: #{colors[0]}"
 end
