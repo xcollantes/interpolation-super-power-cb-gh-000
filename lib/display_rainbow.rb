@@ -6,3 +6,5 @@ def display_rainbow(colors)
   puts "Second color is: #{colors[1]}"
   puts "Thrid color is: #{colors[2]}"
 end
+
+display_rainbow(["red", "blue", "beigh"])
