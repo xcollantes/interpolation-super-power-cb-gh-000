@@ -7,4 +7,4 @@ def display_rainbow(colors)
   puts "Thrid color is: #{colors[2]}"
 end
 
-display_rainbow(["red", "blue", "orange", "yellow", ])
+display_rainbow(["red", "blue", "orange", "yellow", "green", "blue", "indigo", ""])
