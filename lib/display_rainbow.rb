@@ -9,7 +9,7 @@ def display_rainbow(colors)
   puts "Thrid color is: #{colors[4]}"
   puts "Thrid color is: #{colors[5]}"
   puts "Thrid color is: #{colors[6]}"
-  puts "Thrid color is: #{colors[7]}"
+  #puts "Thrid color is: #{colors[7]}"
 end
 
 display_rainbow(["red", "orange", "yellow", "green", "blue", "indigo", "violet"])
